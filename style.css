@@ -1,0 +1,58 @@
+.brand-logo {
+	background: url('http://blog.up.co/wp-content/uploads/2013/08/branding-111.jpeg');
+	width: 100%;
+	height: 400px;
+	display: inline-block;
+}
+
+.opt-in-container {
+	text-align: center;
+	margin: 3% 15%;
+	box-shadow: 0px 0px 53px darkorange;
+}
+
+.opt-in-container>div:first-child {
+	width: 40%;
+	display: inline-block;
+
+}
+
+form {
+	width: 50%;
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	padding: 5% 3%;
+}
+
+input {
+	width: 48%;
+	font-size: 2em;
+	margin: 3% 0%;
+}
+
+.first-name {
+	float: left;
+}
+
+.last-name {
+	float: right;
+}
+
+.email, .submit {
+	display: block;
+	width: 100%;
+	margin: 3% auto;
+}
+
+
+footer {
+	box-shadow: 0px 0px 53px darkorange;
+	margin: 10% 15%;
+	background: rgba(255,140,0,0.27);
+	border-radius: 65%;
+}
+
+footer div {
+	text-align: center;
+}
